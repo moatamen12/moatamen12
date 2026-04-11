@@ -10,7 +10,7 @@
 
 Master's student in **Information Systems Engineering**, building things across the full stack —
 from backends with **Spring Boot & Laravel** to mobile with **Kotlin**, and everything in between.
-Currently exploring **distributed systems, agentic system designing , and AI**.
+Currently exploring **distributed systems, agentic system designing, and AI Infostructure**.
 Passionate about clean architecture and shipping real software.
 
 </div>
@@ -48,6 +48,8 @@ Passionate about clean architecture and shipping real software.
 ▸ Business driven systems & agentic system designing
 ▸ Backend Development java/kotlin spring Boot
 ▸ Crose Platform Mopile development with Kotlin Multiplatform and Compose Multiplatform
+▸ Finishing my master's in information systems and choosing a career
+
 ```
 
 
@@ -56,4 +58,4 @@ Passionate about clean architecture and shipping real software.
 ### 📫 Reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moatamen-naief-4933a532b)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:moatamennaief@gmail.com
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:moatamennaief@gmail.com)
